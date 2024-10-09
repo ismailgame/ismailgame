@@ -1,5 +1,5 @@
 ## Hi! I'm Ismail
-Using C# with chat with pc about my dreams.<br/>
+Using C# for chat with pc about my dreams.<br/>
 Trying to make and learning about games.<br/>
 Making videos about my skills and game mechanics.<br/>
 Making and learning art with photoshop for games.<br/>
